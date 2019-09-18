@@ -1,3 +1,3 @@
 # cs-papers
 
-Papers which matter for every engineer.
+Collected papers worth reading for every software engineer.
