@@ -10,3 +10,4 @@
 - [Finding a needle in Haystack: Facebook’s photo storage](./distributed-system/Finding%20a%20needle%20in%20Haystack-%20Facebook’s%20photo%20storage.pdf) 
 - [Bigtable: A Distributed Storage System for Structured Data](./distributed-system/Bigtable-%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.pdf) 
 - [Dynamo: Amazon’s Highly Available Key-value Store](./distributed-system/Dynamo-%20Amazon’s%20Highly%20Available%20Key-value%20Store%20.pdf) 
+- [Megastore: Providing Scalable, Highly Available Storage for Interactive Services](./distributed-system/Megastore-%20Providing%20Scalable,%20Highly%20Available%20Storage%20for%20Interactive%20Services.pdf) 

@@ -1,6 +1,6 @@
 # cs-papers
 
-Collected papers worth reading for every software engineer.
+Collected Papers Worth Reading for Software Engineer.
 
 - [Distributed System](./distributed-system)
 - [Engineering](./engineering.md)
